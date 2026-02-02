@@ -11,6 +11,7 @@ import {sum} from "./helper.js"
 import Comment from "./Comments.jsx";
 import CommentShow from "./CommentShow.jsx";
 import Counts from "./Count.jsx"
+import Api from "./Api.jsx"
 
 // function Description(){
 //   return <h2>this is desc</h2>
@@ -40,7 +41,7 @@ function App() {
       {/* <Form/> */}
     <CommentShow/>
     <Counts/>
-    
+    <Api/>
   </>
   );
   
