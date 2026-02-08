@@ -1,5 +1,5 @@
 import "./Amazoncard.css"
-import Price from "./Price"
+import Price from "../Price"
 export default  function Amazoncards({title,idx}){
     let oldPrice = ["12,495","11,900","1,599","599"];
     let newPrice = ["8,999","9,199","899","278"];
