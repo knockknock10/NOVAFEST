@@ -1,4 +1,4 @@
-# E-Commerce Platform
+# NovaFest
 
 ![Landing Page](./screenshot/landing.png)
 
