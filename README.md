@@ -1,7 +1,4 @@
-# NovaFest
-in Section 'Features' 
-
-## Features <a id='https://novanest-1.netlify.app/'></a>
+# NovaFest  <a id='https://novanest-1.netlify.app/'></a>
    
 https://novanest-1.netlify.app/
 ![Landing Page](./screenshot/landing.png)
